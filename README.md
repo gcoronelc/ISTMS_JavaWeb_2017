@@ -15,7 +15,7 @@
 - Correo: gcoronelc@gmail.com
 
 
-# ÉNSANDO EN SERVICIOS
+# PENSANDO EN SERVICIOS
 
 - Parte 1: http://gcoronelc.blogspot.pe/2016/11/programando-pensando-en-servicios-parte.html
 - Parte 2: http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
