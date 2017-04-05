@@ -10,7 +10,7 @@ import pe.egcc.appeureka.db.AccesoDB;
  * @email  gcoronelc@gmail.com
  */
 public class Prueba01 {
-  
+   
   public static void main(String[] args) {
     try {
       Connection cn = AccesoDB.getConnection();

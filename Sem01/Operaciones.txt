@@ -1,0 +1,10 @@
+CONSULTAS
+
+1.- Consultar el saldo de una cuenta.
+2.- Consultar datos de un cliente.
+3.- Consultar los movimientos de una cuenta.
+
+
+
+
+
